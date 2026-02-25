@@ -1,5 +1,3 @@
-only cool code rigth now
+nothing impressive here yet
 
-faith and love joints my work
-
-nothing impressive here tho
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidI9&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
